@@ -11,11 +11,14 @@ I'm solving problems consistently to strengthen my problem-solving skills, prepa
 ✅ Interview-focused problems
 ✅ Automatically synced using LeetSync
 
-📂 Problems Solved
-Problem No.	 Problem Name	                         Difficulty
-121	         Best Time to Buy and Sell Stock	        Easy
-283	         Move Zeroes	Easy
 
+
+## 📂 Problems Solved
+
+| Problem No. | Problem Name                         | Difficulty | Solution |
+|:-----------:|--------------------------------------|:----------:|:--------:|
+| 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Java](./121-best-time-to-buy-and-sell-stock/) |
+| 283 | Move Zeroes | 🟢 Easy | [Java](./283-move-zeroes/) |
 
 (This list will continue to grow as I solve more problems.)
 
