@@ -19,9 +19,9 @@ I'm solving problems consistently to strengthen my problem-solving skills, prepa
 |:-----------:|--------------------------------------|:----------:|:--------:|
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Java](./121-best-time-to-buy-and-sell-stock/) |
 | 283 | Move Zeroes | 🟢 Easy | [Java](./283-move-zeroes/) |
-| 1 | Two Sum | 🟢 Easy |
-| 1603 | running-sum-of-1d-array | 🟢 Easy |Java|
-(This list will continue to grow as I solve more problems.)| Java |
+| 1 | Two Sum | 🟢 Easy | Java |
+| 1603 | running-sum-of-1d-array | 🟢 Easy | Java |
+(This list will continue to grow as I solve more problems.)
 
 🛠️ Languages Used
 Java
